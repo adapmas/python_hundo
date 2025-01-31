@@ -1,0 +1,1 @@
+This repository records all the progress I've made in my python journey, through the 100 day bootcamp course with the projects. The other branch, concepts, records all the concepts I've learnt through the course.
